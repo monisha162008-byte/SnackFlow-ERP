@@ -1,0 +1,6 @@
+{
+  "name": "SnackFlow ERP",
+  "description": "Smart Manufacturing, Stock Ledger, GST Invoicing, Production Costing & Audit Management System for South Indian Packaged Snacks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
